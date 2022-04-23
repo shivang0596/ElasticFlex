@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ElasticFlexApplication {
 
-	public static void main(String[] args) {
+	public static  main(String[] args) {
 		System.out.println("Elastic flex running!!");
 		SpringApplication.run(ElasticFlexApplication.class, args);
 	}
