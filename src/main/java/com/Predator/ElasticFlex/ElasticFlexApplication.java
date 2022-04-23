@@ -8,6 +8,8 @@ public class ElasticFlexApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Elastic flex running!!");
+
+		
 		SpringApplication.run(ElasticFlexApplication.class, args);
 	}
 
